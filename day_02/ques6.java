@@ -11,5 +11,6 @@ public class ques6 {
             n=n/10;
         }
         System.out.print("the reverse of the numbers = " +rev);
+        sc.close();
     }
 }

@@ -9,6 +9,6 @@ public class ques3 {
         fact=fact*i;
     }
     System.out.print("factorial is " + fact);
-        sc.close();
+    sc.close();
     }
 }

@@ -11,5 +11,6 @@ public class ques5 {
             n=n/10;
         }
         System.out.print("the sum of the numbers = " +sum);
+        sc.close();
     }
 }

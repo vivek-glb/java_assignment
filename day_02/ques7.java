@@ -11,5 +11,6 @@ public class ques7 {
             n=n/10;
         }
         System.out.print("the product of the numbers = " +pro);
+        sc.close();
     }
 }

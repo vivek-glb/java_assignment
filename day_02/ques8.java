@@ -14,6 +14,7 @@ public class ques8 {
         if(original==rev)
         System.out.print("yes the number is palindrome");
         else
-        System.out.print("no the number is not palindrome");    
+        System.out.print("no the number is not palindrome");  
+        sc.close();  
     }
 }
